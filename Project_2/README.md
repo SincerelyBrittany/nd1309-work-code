@@ -95,3 +95,7 @@ class Blockchain{
   }
 ]
 ```
+
+## exit node
+
+``.exit``
